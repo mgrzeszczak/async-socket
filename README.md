@@ -1,6 +1,11 @@
 # async-socket
 General purpose asynchronous tcp server written in Java.
 
+# Download
+
+[![](https://jitpack.io/v/mgrzeszczak/async-socket.svg)](https://jitpack.io/#mgrzeszczak/async-socket)
+
+
 # Usage
 See examples.
 
